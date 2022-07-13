@@ -25,7 +25,6 @@ public class PointsController {
 
 	/**
 	 * get points gained by a particular employee by employee id
-	 * 
 	 * @param token
 	 * @param employeeId
 	 * @return Points
